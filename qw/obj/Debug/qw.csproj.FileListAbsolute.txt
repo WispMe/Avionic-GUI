@@ -1,0 +1,110 @@
+E:\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\qw.exe.config
+E:\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\qw.exe
+E:\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\qw.pdb
+E:\GCS APTRG VISTUD\tes\qw\qw\obj\Debug\qw.csprojResolveAssemblyReference.cache
+E:\GCS APTRG VISTUD\tes\qw\qw\obj\Debug\qw.Form1.resources
+E:\GCS APTRG VISTUD\tes\qw\qw\obj\Debug\qw.Properties.Resources.resources
+E:\GCS APTRG VISTUD\tes\qw\qw\obj\Debug\qw.csproj.GenerateResource.Cache
+E:\GCS APTRG VISTUD\tes\qw\qw\obj\Debug\qw.csproj.CoreCompileInputs.cache
+E:\GCS APTRG VISTUD\tes\qw\qw\obj\Debug\qw.exe
+E:\GCS APTRG VISTUD\tes\qw\qw\obj\Debug\qw.pdb
+E:\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\ZedGraph.dll
+E:\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\ZedGraph.xml
+E:\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\de\ZedGraph.resources.dll
+E:\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\es\ZedGraph.resources.dll
+E:\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\fr\ZedGraph.resources.dll
+E:\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\hu\ZedGraph.resources.dll
+E:\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\it\ZedGraph.resources.dll
+E:\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\ja\ZedGraph.resources.dll
+E:\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\pt\ZedGraph.resources.dll
+E:\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\ru\ZedGraph.resources.dll
+E:\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\sk\ZedGraph.resources.dll
+E:\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\sv\ZedGraph.resources.dll
+E:\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\tr\ZedGraph.resources.dll
+E:\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\qw.exe.config
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\qw.exe
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\qw.pdb
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\ZedGraph.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\ZedGraph.xml
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\de\ZedGraph.resources.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\es\ZedGraph.resources.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\fr\ZedGraph.resources.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\hu\ZedGraph.resources.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\it\ZedGraph.resources.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\ja\ZedGraph.resources.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\pt\ZedGraph.resources.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\ru\ZedGraph.resources.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\sk\ZedGraph.resources.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\sv\ZedGraph.resources.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\tr\ZedGraph.resources.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\obj\Debug\qw.csprojResolveAssemblyReference.cache
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\obj\Debug\qw.Form1.resources
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\obj\Debug\qw.Properties.Resources.resources
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\obj\Debug\qw.csproj.GenerateResource.Cache
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\obj\Debug\qw.csproj.CoreCompileInputs.cache
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\obj\Debug\qw.exe
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\obj\Debug\qw.pdb
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\obj\Debug\qw.control.Resource1.resources
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\AxInterop.isAnalogLibrary.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\OpenTK.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\OpenTK.GLControl.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\SharpGL.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\SharpGL.SceneGraph.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\SharpGL.Serialization.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\SharpGL.WinForms.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\SharpGL.WPF.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\stdole.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\OpenTK.xml
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\OpenTK.GLControl.xml
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\GMap.NET.Core.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\GMap.NET.WindowsForms.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\GMap.NET.WindowsPresentation.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\GMap.NET.Core.xml
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\GMap.NET.WindowsForms.xml
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\GCS APTRG VISTUD\tes\qw\qw\bin\Debug\GMap.NET.WindowsPresentation.xml
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\qw.exe.config
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\qw.exe
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\qw.pdb
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\AxInterop.isAnalogLibrary.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\GMap.NET.Core.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\GMap.NET.WindowsForms.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\GMap.NET.WindowsPresentation.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\OpenTK.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\OpenTK.GLControl.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\SharpGL.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\SharpGL.SceneGraph.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\SharpGL.Serialization.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\SharpGL.WinForms.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\SharpGL.WPF.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\stdole.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\GMap.NET.Core.xml
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\GMap.NET.WindowsForms.xml
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\GMap.NET.WindowsPresentation.xml
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\OpenTK.xml
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\OpenTK.GLControl.xml
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\ZedGraph.xml
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\de\ZedGraph.resources.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\es\ZedGraph.resources.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\fr\ZedGraph.resources.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\hu\ZedGraph.resources.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\it\ZedGraph.resources.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\ja\ZedGraph.resources.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\pt\ZedGraph.resources.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\ru\ZedGraph.resources.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\sk\ZedGraph.resources.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\sv\ZedGraph.resources.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\tr\ZedGraph.resources.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\obj\Debug\qw.csprojResolveAssemblyReference.cache
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\obj\Debug\qw.control.Resource1.resources
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\obj\Debug\qw.Form1.resources
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\obj\Debug\qw.Properties.Resources.resources
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\obj\Debug\qw.csproj.GenerateResource.Cache
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\obj\Debug\qw.csproj.CoreCompileInputs.cache
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\obj\Debug\qw.exe
+E:\Adil\Faiz_FAK\Dokumen\Kuliah\APTRG\Magang\Hasil progress\qw\qw\obj\Debug\qw.pdb
